@@ -1,5 +1,4 @@
 
-
 # Apprendre le Crochet
 
 Bienvenue sur mon site dédié au crochet. Vous trouverez ici des informations pour débuter, des modèles et des astuces.
@@ -27,4 +26,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 | --------------- | ------------------------------------ |
 | Crochet         | Un crochet de 4mm est recommandé.    |
 | Fil de laine    | Préférez un fil doux et de bonne qualité. |
+
+
 
