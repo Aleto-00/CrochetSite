@@ -6,7 +6,7 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 - **Un crochet** _(entre 4mm et 6mm pour débuter)_
 - **De la laine** : _privilégiez une laine de taille moyenne_  
-  ~~Évitez les fils trop fins ou trop épais au début.~~
+-  ~~Évitez les fils trop fins ou trop épais au début.~~
 
 ---
 
