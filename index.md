@@ -1,8 +1,11 @@
 <head>
+   
    body {
             background-color: #f0f0f0; 
             color: #333
+  }
 
+  
 # Apprendre le Crochet
 
 Bienvenue sur mon site dédié au crochet. Vous trouverez ici des informations pour débuter, des modèles et des astuces.
