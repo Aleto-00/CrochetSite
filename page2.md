@@ -1,3 +1,12 @@
+<style>
+        body {
+            background-color: #F8C8DC; /* Rose pastel */
+            color: #333; /* Couleur du texte */
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+    </style>
+
 # Guide pour débutants au crochet
 
 Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour commencer.
