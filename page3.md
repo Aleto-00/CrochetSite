@@ -1,7 +1,7 @@
 <style>
         body {
             background-color: #FFFACD; /* Jaune pastel */
-            color: #333; /* Couleur du texte */
+            color: ##000000; /* Couleur du texte */
             font-family: Arial, sans-serif;
             padding: 20px;
         }
