@@ -1,10 +1,11 @@
-    <style>
+<style>
         body {
             background-color: #A3C1DA; /* Bleu pastel */
             color: #333; /* Couleur du texte */
             font-family: Arial, sans-serif;
             padding: 20px;
         }
+    </style>
 
 # Apprendre le Crochet
 
