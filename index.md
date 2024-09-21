@@ -1,4 +1,4 @@
-head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
@@ -8,13 +8,6 @@ head>
             font-family: Arial, sans-serif;
             padding: 20px;
         }
-    </style>
-    <title>Mon projet GitHub</title>
-</head>
-<body>
-    <h1>Bienvenue sur mon projet !</h1>
-    <p>Ceci est un exemple de texte avec un fond bleu pastel.</p>
-</body>
 
 # Apprendre le Crochet
 
