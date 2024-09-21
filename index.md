@@ -6,3 +6,15 @@ Bienvenue sur mon site dédié au crochet. Vous trouverez ici des informations p
 
 Le **crochet** est une technique de création de textiles en utilisant un simple crochet. _Il existe des motifs illimités à explorer_ !
 
+> _Le crochet est un art qui prend du temps, mais qui est très gratifiant._
+
+[Suivez-moi sur Instagram](https://www.instagram.com/_.aiko.crochet._?igsh=MXN3dG10c3NqY202aQ==) pour plus d'inspiration.
+
+---
+
+## Table des matières
+
+1. [Guide débutant](page2.md)
+2. [Projets avancés](page3.md)
+
+---
