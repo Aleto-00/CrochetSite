@@ -1,7 +1,7 @@
 <style>
         body {
             background-color: #A3C1DA; /* Bleu pastel */
-            font-family: Arial, sans-serif;
+            font-family: 'Caveat', cursive;
             padding: 20px;
         }
     </style>
@@ -37,8 +37,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
  <style>
         body {
             color: #A52A2A; /* Auburn color */
-            font-family: Arial, sans-serif;
-            padding: 50px;
         }
     </style>
 
