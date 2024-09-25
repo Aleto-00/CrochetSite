@@ -28,11 +28,11 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
 > Ces personnages viennent d'un jeux vidéo nommé **genshin**. Ils demandent beaucoup plus de temps et de technique, donc je vous recommande vivement de commencer avec des projets de niveau intermédiaire. Cela vous permettra de vivre une expérience enrichissante et agréable !
 
->>* Voici la liste du matériel nécessaire :
-          1. Pelote de laine
-          2. Crochet taille 2.5-3 mm
-          3. Marqueurs
-          4. pistolet colle chaude
+* Voici la liste du matériel nécessaire :
+        * Pelote de laine
+        * Crochet taille 2.5-3 mm
+        * Marqueurs
+        * Pistolet colle chaude
 
 <style>
         body {
