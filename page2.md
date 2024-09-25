@@ -24,6 +24,13 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 1. Point chaînette
 2. Point serré
 3. Demi-bride
+4. Augmentation
+5. Réduction
+
+# Voici un exemple de projet pour débutant 
+
+* Petite abeille qui peut être accroché comme porte clé
+
 
 Visitez notre [page des projets avancés](page3.md) pour plus de défis.
 
