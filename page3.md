@@ -24,7 +24,11 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
 <img src="neuvillette.jpg" alt="Description de l'image" width="250">        <img src="neuvillette2.jpg" alt="Description de l'image" width="250">
 
-
+<style>
+        body {
+            color: #6F4C3E; /* Auburn color */
+        }
+    </style>
 
 ---
 
