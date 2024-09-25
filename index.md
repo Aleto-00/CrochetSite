@@ -1,7 +1,6 @@
 <style>
         body {
             background-color: #A3C1DA; /* Bleu pastel */
-            color: #000000; /* Couleur du texte */
             font-family: Arial, sans-serif;
             padding: 20px;
         }
@@ -35,9 +34,12 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 | Crochet         | Un crochet de 4mm est recommandé.    |
 | Fil de laine    | Préférez un fil doux et de bonne qualité. |
 
- <body>
-    <h1 id="text">This text is now auburn!</h1>
-    <p>All the text on this page will be displayed in auburn color.</p>
-</body>
-
+ <style>
+        body {
+            color: #A52A2A; /* Auburn color */
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+    </style>
 
