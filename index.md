@@ -59,7 +59,7 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 
 | Matériel        | Description                          |
 | --------------- | ------------------------------------ |
-| Crochet         | Un crochet de 2.25mm est recommandé pour la lai,e, cependant pensé à varier les tailles en fonction de l'épaisseur du fils |    |
+| Crochet         | Un crochet de 2.25mm est recommandé pour la lai,e, cependant pensé à varier les tailles en fonction de l'épaisseur du fils |  
 | Fil de laine    | Préférez un fil doux et de bonne qualité. |
 | Marquage        | Vous pouvez acheter les marqueurs pour crochet, une epingle à nourrice fait très bien l'affaire |
 | Pistolet        | Des petits pistolet à colle chaude suffissent. Vous pouvez en trouver à cultura |
