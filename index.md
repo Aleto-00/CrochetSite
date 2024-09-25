@@ -6,14 +6,14 @@
         }
     </style>
 
-# Apprendre le Crochet
+# Apprendre le Crochet ✨
 
 Bienvenue sur mon site dédié au crochet. Vous trouverez ici des informations pour débuter, des modèles et des astuces.
 
 Ici tout est fait main ! :) En suivant ces tutoriels vous pourrez créer vos propres projets par vous-même !
 Il y en a pour tous les niveaux mais ce site est avant tout un endroit pour permettre aux débutants de se lancer.
 
-## À propos du crochet
+## À propos du crochet 🧶
 
 Le **crochet** est une technique de création de textiles en utilisant un simple crochet. _Il existe des motifs illimités à explorer_ !
 
