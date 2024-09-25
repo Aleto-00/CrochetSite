@@ -7,6 +7,11 @@
         }
     </style>
 
+    <body>
+    <h1 id="text">This text is now auburn!</h1>
+    <p>All the text on this page will be displayed in auburn color.</p>
+</body>
+
 # Apprendre le Crochet
 
 Bienvenue sur mon site dédié au crochet. Vous trouverez ici des informations pour débuter, des modèles et des astuces.
