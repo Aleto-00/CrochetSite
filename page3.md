@@ -13,7 +13,6 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
 ## Projets suggérés
 
-- **Couverture hexagonale** (_technique intermédiaire_)
 - **Peluche sur socle** (_technique intermédiaire_)
 
 <img src="renard.jpg" alt="Description de l'image" width="250">        <img src="elephant.jpg" alt="Description de l'image" width="250">  
