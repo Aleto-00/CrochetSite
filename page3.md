@@ -2,7 +2,7 @@
         body {
             background-color: #FFFACD; /* Jaune pastel */
             color: #000000; /* Couleur du texte */
-            font-family: Broadway, sans-serif;
+            font-family: Broadway
             padding: 20px;
         }
     </style>
