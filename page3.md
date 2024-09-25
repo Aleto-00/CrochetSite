@@ -31,8 +31,9 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 > * Voici la liste du matériel nécessaire :
 > 1) Pelote de laine
 > 2) Crochet taille 2.5-3 mm
-> 3) Marqueurs
-> 4) Pistolet colle chaude
+> > Faites toujours attention à l'épaisseur de votre laine. La taille du crochet varie.
+> 4) Marqueurs
+> 5) Pistolet colle chaude
 
 <style>
         body {
