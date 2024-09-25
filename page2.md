@@ -35,9 +35,7 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 Vous pouvez également prendre ces méduses comme exemple.
 
-<img src="meduse bleue.jpg" alt="Description de l'image" width="250">        <img src="médusejaune.jpg" alt="Description de l'image" width="250"> 
-
-<img src="méduse rouge.jpg" alt="Description de l'image" width="250">   
+<img src="meduse bleue.jpg" alt="Description de l'image" width="250">  <img src="méduse jaune.jpg" alt="Description de l'image" width="250">  <img src="méduse rouge.jpg" alt="Description de l'image" width="250">   
 
 Visitez notre [page des projets avancés](page3.md) pour plus de défis.
 
