@@ -30,10 +30,10 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
 * Voici la liste du matériel nécessaire :
 
-        * Pelote de laine
-        * Crochet taille 2.5-3 mm
-        * Marqueurs
-        * Pistolet colle chaude
+1) Pelote de laine
+2) Crochet taille 2.5-3 mm
+3) Marqueurs
+4) Pistolet colle chaude
 
 <style>
         body {
