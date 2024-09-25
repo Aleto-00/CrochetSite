@@ -35,7 +35,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
             width: 80%; /* Width of the table */
             margin: 20px auto; /* Centering the table */
             border-collapse: collapse; /* Merging borders */
-            background-color: #ADD8E6; /* White background for the table */
         }
         
         th, td {
