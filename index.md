@@ -36,7 +36,7 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 
  <style>
         body {
-            color: #A52A2A; /* Auburn color */
+            color: #6F4C3E; /* Auburn color */
         }
     </style>
 
