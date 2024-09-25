@@ -1,8 +1,8 @@
-body {
-    font-family: Arial, sans-serif;
-    color: #A52A2A; /* Auburn color for all text */
-}
-
-h1, p {
-    margin: 10px;
-}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auburn Text Color</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="text">All text will be in auburn!</h1>
