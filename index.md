@@ -16,9 +16,9 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 
 > _Le crochet est un art qui prend du temps, mais qui est très gratifiant._
 
-*[Suivez-moi sur Instagram](https://www.instagram.com/_.aiko.crochet._?igsh=MXN3dG10c3NqY202aQ==) pour plus d'inspiration.
+* [Suivez-moi sur Instagram](https://www.instagram.com/_.aiko.crochet._?igsh=MXN3dG10c3NqY202aQ==) pour plus d'inspiration.
 
-*Venez également me retrouver sur [vinted](https://www.vinted.fr/member/81499051-aikocrochetplush) pour suivre mes avancées.
+* Venez également me retrouver sur [vinted](https://www.vinted.fr/member/81499051-aikocrochetplush) pour suivre mes avancées.
 
 ---
 
