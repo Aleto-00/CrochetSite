@@ -26,6 +26,14 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
 <img src="tartaglia.jpg" alt="Description de l'image" width="250">           <img src="tartaglia2.jpg" alt="Description de l'image" width="250">
 
+> Ces personnages viennent d'un jeux vidéo nommé **genshin**. Ils demandent beaucoup plus de temps et de technique, donc je vous recommande vivement de commencer avec des projets de niveau intermédiaire. Cela vous permettra de vivre une expérience enrichissante et agréable !
+
+>>* Voici la liste du matériel nécessaire :
+          1. Pelote de laine
+          2. Crochet taille 2.5-3 mm
+          3. Marqueurs
+          4. pistolet colle chaude
+
 <style>
         body {
             color: #6F4C3E; /* Auburn color */
