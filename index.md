@@ -1,6 +1,6 @@
 <style>
         body {
-            background-color: #A3C1DA; /* Bleu pastel */
+            background-color: #B2D8B2; /* Bleu pastel */
             font-family: 'Caveat', cursive;
             padding: 20px;
         }
