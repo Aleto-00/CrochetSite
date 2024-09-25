@@ -1,7 +1,7 @@
 <style>
         body {
             background-color: #B2D8B2; /* Bleu pastel */
-            font-family: 'Caveat', cursive;
+            font-family: Caveat, cursive;
             padding: 20px;
         }
     </style>
