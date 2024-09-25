@@ -17,7 +17,8 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 - **Écharpe à motifs** (_technique avancée_)
 - **Personnages fictifs** (_techique avancée
 
-<img src="neuvillette.jpg" alt="Description de l'image" width="250">
+<img src="neuvillette.jpg" alt="Description de l'image" width="250">        <img src="neuvillette2.jpg" alt="Description de l'image" width="250">
+
 
 
 ---
