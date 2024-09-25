@@ -27,3 +27,8 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 Visitez notre [page des projets avancés](page3.md) pour plus de défis.
 
+<style>
+        body {
+            color: #6F4C3E; /* Auburn color */
+        }
+    </style>
