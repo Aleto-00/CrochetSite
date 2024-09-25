@@ -64,7 +64,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 | Marquage        | Vous pouvez acheter les marqueurs pour crochet, une epingle à nourrice fait très bien l'affaire |
 | Pistolet        | Des petits pistolet à colle chaude suffissent. Vous pouvez en trouver à cultura |
 | Mètre de couture | Si jamais vous voulez travailler sur un vêtement ou une plaide | 
-| --------------- | ------------------------------------- |
 
  <style>
         body {
