@@ -21,11 +21,13 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 ## Liste des points de base
 
-1. Point chaînette
-2. Point serré
-3. Demi-bride
-4. Augmentation
-5. Réduction
+1. [Point chaînette](https://youtu.be/31A-5SqUMJY?si=A84k638KBxLT2aqz)
+2. [Point serré](https://youtu.be/3PoLOhGpwJ0?si=kZ2KhUQzBnYqfBwX)
+3. [Demi-bride](https://youtu.be/l1w3HidZC1g?si=VNSAgcBeDpMm7io0)
+4. [Augmentation](https://youtu.be/NCHvJ9PbMPQ?si=WD-_iMYl8Pmlq-Wn)
+5. [Diminution](https://youtu.be/uzmBW6M2Qvo?si=74h2qjCra51T1iZR)
+
+Ces liens vous renvoie à de bons tutoriels sur les bases du crochet.
 
 # Voici un exemple de projet pour débutant 
 
