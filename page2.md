@@ -29,11 +29,11 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 # Voici un exemple de projet pour débutant 
 
-* Petite abeille qui peut être accroché comme porte clé
+* Petite **abeille** qui peut être accroché comme porte clé
 
 <img src="petite abeille.jpg" alt="Description de l'image" width="250"> 
 
-Vous pouvez également prendre ces méduses comme exemple.
+Vous pouvez également prendre ces __méduses__ comme exemple.
 
 <img src="meduse bleue.jpg" alt="Description de l'image" width="250">  <img src="méduse jaune.jpg" alt="Description de l'image" width="250">  <img src="méduse rouge.jpg" alt="Description de l'image" width="250">   
 
