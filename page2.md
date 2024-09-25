@@ -31,6 +31,11 @@ Si vous êtes nouveau dans le monde du crochet, voici quelques étapes pour comm
 
 * Petite abeille qui peut être accroché comme porte clé
 
+<img src="petite abeille.jpg" alt="Description de l'image" width="250"> 
+
+Vous pouvez également prendre ces méduses comme exemple.
+
+<img src="meduses bleue.jpg" alt="Description de l'image" width="250">   <img src="méduses jaune.jpg" alt="Description de l'image" width="250">  <img src="méduse rouge.jpg" alt="Description de l'image" width="250">   
 
 Visitez notre [page des projets avancés](page3.md) pour plus de défis.
 
