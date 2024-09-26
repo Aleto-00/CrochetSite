@@ -21,7 +21,7 @@ Voici quelques exemples de projets avancés que j'ai fait
 
   <img src="renard & elephant.jpg" alt="Description de l'image" width="300">  
 
-- **Personnages fictifs** (_techique avancée_)
+- **Personnages fictifs** (_technique avancée_)
 
 <img src="neuvillette.jpg" alt="Description de l'image" width="250">        <img src="neuvillette2.jpg" alt="Description de l'image" width="250">
 
