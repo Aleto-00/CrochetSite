@@ -1,8 +1,6 @@
 <style>
         body {
             background-color: #F8C8DC; /* Rose pastel */
-            color: #000000; /* Couleur du texte */
-            font-family: Arial, sans-serif;
             padding: 20px;
         }
     </style>
