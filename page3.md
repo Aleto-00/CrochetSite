@@ -19,7 +19,6 @@ Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexe
 
   <img src="renard & elephant.jpg" alt="Description de l'image" width="300">  
 
-- **Écharpe à motifs** (_technique avancée_)
 - **Personnages fictifs** (_techique avancée_)
 
 <img src="neuvillette.jpg" alt="Description de l'image" width="250">        <img src="neuvillette2.jpg" alt="Description de l'image" width="250">
