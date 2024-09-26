@@ -1,8 +1,6 @@
 <style>
         body {
             background-color: #FFFACD; /* Jaune pastel */
-            color: #000000; /* Couleur du texte */
-            font-family: Baguet, Script
             padding: 20px;
         }
     </style>
