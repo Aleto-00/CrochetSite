@@ -11,7 +11,7 @@
 Bienvenue sur mon site dédié au crochet. Vous trouverez les informations pour débuter, des modèles et des astuces.
 
 **Ici tout est fait main ! :) En suivant ces tutoriels vous pourrez créer vos propres projets!**
-Il y en a pour tous les niveaux mais ce site est avant tout un endroit pour permettre aux débutants de se lancer et se faire plaisir.
+Il y en a pour tous les niveaux mais ce site est avant tout un endroit pour permettre aux débutants de se lancer et de se faire plaisir.
 
 ## À propos du crochet 🧶
 
