@@ -34,12 +34,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 <style>
         }
         
-        table {
-            width: 80%; /* Width of the table */
-            margin: 20px auto; /* Centering the table */
-            border-collapse: collapse; /* Merging borders */
-        }
-        
         th, td {
             padding: 15px; /* Padding inside the cells */
             border: 1px solid #6F4C3E; /* Border color */
@@ -49,13 +43,6 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
             background-color: #D9EAD3; /* Light green for header */
         }
         
-        tr:nth-child(even) {
-            background-color: #B2D3E2; /* Lighter blue for even rows */
-        }
-
-        tr:nth-child(odd) {
-            background-color: #ADD8E6; /* Same pastel blue for odd rows */
-        }
     </style>
 
 ### Tableau des matériels
