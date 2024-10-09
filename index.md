@@ -57,7 +57,7 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 
 ![Alt text](https://scrapetbricodemonica.wordpress.com/wp-content/uploads/2021/01/astuces-et-conseils-pour-commencer-le-crochet.jpg)
 
- C'est parti ! 
+ C'est parti ! 😄
   
   <style>
         body {
