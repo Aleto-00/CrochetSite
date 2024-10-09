@@ -9,7 +9,7 @@
 
 Une fois les bases maîtrisées, vous pouvez commencer des projets plus complexes, tels que des couvertures ou des vêtements.
 
-Voici quelques exemples de projets avancés que j'ai fait
+Voici quelques exemples de projets avancés que j'ai fait. 
 
 ## Projets suggérés
 
