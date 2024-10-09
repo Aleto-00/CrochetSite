@@ -55,7 +55,11 @@ Le **crochet** est une technique de création de textiles en utilisant un simple
 | Pistolet        | Des petits pistolet à colle chaude suffissent. Vous pouvez en trouver à cultura |
 | Mètre de couture | Si jamais vous voulez travailler sur un vêtement ou une plaide | 
 
- <style>
+![Alt text](https://scrapetbricodemonica.wordpress.com/wp-content/uploads/2021/01/astuces-et-conseils-pour-commencer-le-crochet.jpg)
+
+ C'est parti ! 
+  
+  <style>
         body {
             color: #6F4C3E; /* Auburn color */
         }
