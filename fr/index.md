@@ -5,7 +5,6 @@
             padding: 20px;
         }
     </style>
-[Version anglaise](en)
 
 # Apprendre le Crochet ✨
 
