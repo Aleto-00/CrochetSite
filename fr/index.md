@@ -5,7 +5,7 @@
             padding: 20px;
         }
     </style>
-[Anglais](/en)
+[Version anglaise](en)
 
 # Apprendre le Crochet ✨
 
