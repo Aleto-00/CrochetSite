@@ -46,8 +46,13 @@ Crochet is a technique for creating textiles using a simple hook. There are endl
 
 ### Hardware table
 
-| Material | Description | --------------- | ------------------------------------ | | Hook | A 2.25mm hook is recommended for wool, but remember to vary sizes according to yarn thickness |  
-| You can buy crochet markers, but a safety pin works just as well | | Small hot-glue guns are all you need. You can find them at cultura | | Sewing tape measure | If you ever want to work on a garment or a plea | 
+| Material | Description | 
+|--------------- | ------------------------------------ | 
+| Hook| A 2.25mm hook is recommended for wool, but remember to vary sizes according to yarn thickness |  
+|Wool yarn | You can buy crochet markers, but a safety pin works just as well | 
+|Marking| Small hot-glue guns are all you need. You can find them at cultura | 
+| Pistol| Sewing tape measure | If you ever want to work on a garment or a plea | 
+| Sewing meter | If you ever want to work on a garment or plaide |
 
 ![Alt text](https://scrapetbricodemonica.wordpress.com/wp-content/uploads/2021/01/astuces-et-conseils-pour-commencer-le-crochet.jpg)
 
