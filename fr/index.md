@@ -5,7 +5,7 @@
             padding: 20px;
         }
     </style>
-[Anglais](CrochetSite/en)
+[Anglais](/en)
 
 # Apprendre le Crochet ✨
 
