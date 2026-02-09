@@ -1,5 +1,5 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Redirecting to https://www.joker-project.com/2026</title>
-<meta http-equiv="refresh" content="0; https://www.joker-project.com/2026">
-<link rel="canonical" href="https://www.joker-project.com/2026">
+<title>Redirecting to https://aleto-00.github.io/CrochetSite/fr/</title>
+<meta http-equiv="refresh" content="0; https://aleto-00.github.io/CrochetSite/fr/">
+<link rel="canonical" href="https://aleto-00.github.io/CrochetSite/fr/">
