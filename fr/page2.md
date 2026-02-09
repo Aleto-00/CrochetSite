@@ -31,15 +31,15 @@ Ces liens vous renvoie à de bons tutoriels sur les bases du crochet.
 
 * Petite **abeille** qui peut être accroché comme porte clé 🐝
 
-<img src="petite abeille.jpg" alt="Description de l'image" width="250"> 
+<img src="../petite abeille.jpg" alt="Description de l'image" width="250"> 
 
 Vous pouvez également prendre ces __méduses__ comme exemple.
 
-<img src="meduse bleue.jpg" alt="Description de l'image" width="250">  <img src="méduse jaune.jpg" alt="Description de l'image" width="250">  <img src="méduse rouge.jpg" alt="Description de l'image" width="250">   
+<img src="../meduse bleue.jpg" alt="Description de l'image" width="250">  <img src="../méduse jaune.jpg" alt="Description de l'image" width="250">  <img src="../méduse rouge.jpg" alt="Description de l'image" width="250">   
 
 * Voici quelques exemples avec la laine chenille. Si vous voulez tenter l'abeille avec ce genre de pelote, adaptez le pattern car le fil est beaucoup plus épais.
 
-<img src="abeille fluffy.jpg" alt="Description de l'image" width="250">        <img src="ghost.jpg" alt="Description de l'image" width="250"> 
+<img src="../abeille fluffy.jpg" alt="Description de l'image" width="250">        <img src="../ghost.jpg" alt="Description de l'image" width="250"> 
 
 Amusez-vous ! 👻
 
